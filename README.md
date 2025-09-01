@@ -17,9 +17,16 @@ git clone https://github.com/realbxnnie/Monkeyauto
  ```
 
  ## Post-installation
- ### Linux & macOS
+ ### Linux
  1. Run the following command:
  ```
 sudo mv ./main.py /usr/bin/monkeyauto
  ```
+
+ ### Unix
+ 1. Run the following command:
+ ```
+sudo mv ./main.py /usr/local/bin/monkeyauto
+ ```
  
+
